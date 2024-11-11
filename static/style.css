@@ -1,0 +1,26 @@
+
+#table, #form{
+    position: relative;
+    right: -40%;
+    
+
+
+}
+#h1{
+    position: relative;
+    right: -40%;
+}
+.h1{
+    position: relative;
+    right: -40%;
+}
+.form{
+    position: relative;
+    right: -40%;
+}
+body{
+    background-color: aqua;
+    color:hsl(0, 0%, 0%);
+
+}
+
